@@ -1,0 +1,37 @@
+09-01-2020 @ 16:40:27 ---- Level : ERROR 
+ 
+Error in GetAseConnection method :Login failed.
+// /n   at Sybase.Data.AseClient1.AseConnection.Open()
+   at Sybase.Data.AseClient.AseConnection.Open()
+   at SwiftPayCore.Models.ConnectionManager.GetAseConnection() in C:\Users\uchechukwu.igbokwe\Documents\Visual Studio 2019\Projects\SwiftPayCore\SwiftPayCore\Models\ConnectionManager.cs:line 24/n09/01/2020 4:40:26
+-------------------------------------------------------------
+09-01-2020 @ 16:40:27 ---- Level : ERROR 
+ 
+ERROR IN GetCustomers METHOD IN  CustomerImplementation CLASS. REASONCannot execute a command without opening the Connection-----09/01/2020 4:40:27
+-------------------------------------------------------------
+09-01-2020 @ 17:37:31 ---- Level : ERROR 
+ 
+ERROR IN GetCustomers METHOD IN  CustomerImplementation CLASS. REASONString must be exactly one character long.-----09/01/2020 5:37:31
+-------------------------------------------------------------
+09-01-2020 @ 17:47:14 ---- Level : ERROR 
+ 
+ERROR IN GetCustomers METHOD IN  CustomerImplementation CLASS. REASONString must be exactly one character long.-----09/01/2020 5:47:14
+-------------------------------------------------------------
+09-01-2020 @ 17:47:44 ---- Level : ERROR 
+ 
+ERROR IN GetCustomers METHOD IN  CustomerImplementation CLASS. REASONString must be exactly one character long.-----09/01/2020 5:47:44
+-------------------------------------------------------------
+09-01-2020 @ 17:49:45 ---- Level : ERROR 
+ 
+ERROR IN GetCustomers METHOD IN  CustomerImplementation CLASS. REASONString must be exactly one character long.-----09/01/2020 5:49:45
+-------------------------------------------------------------
+09-01-2020 @ 17:57:44 ---- Level : ERROR 
+ 
+ERROR IN GetCustomers METHOD IN  CustomerImplementation CLASS. REASONString must be exactly one character long.-----09/01/2020 5:57:44
+-------------------------------------------------------------
+09-01-2020 @ 18:26:27 ---- Level : ERROR 
+ 
+Error in GetAseConnection method :Client unable to establish a connection// /n   at Sybase.Data.AseClient1.AseConnection.Open()
+   at Sybase.Data.AseClient.AseConnection.Open()
+   at SwiftPayCore.Models.ConnectionManager.GetAseConnection() in C:\Users\uchechukwu.igbokwe\Documents\Visual Studio 2019\Projects\SwiftPayCore\SwiftPayCore\Models\ConnectionManager.cs:line 24/n09/01/2020 6:26:27
+-------------------------------------------------------------
